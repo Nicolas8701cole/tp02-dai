@@ -1,0 +1,20 @@
+{
+  "name": "tp02-dai",
+  "version": "1.0.0",
+  "description": "start",
+  "homepage": "https://github.com/Nicolas8701cole/tp02-dai#readme",
+  "bugs": {
+    "url": "https://github.com/Nicolas8701cole/tp02-dai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas8701cole/tp02-dai.git"
+  },
+  "license": "ISC",
+  "author": "Nicolas Frenkel y Tomas Vinicio Lopez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
