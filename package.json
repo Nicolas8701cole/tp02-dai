@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "author": "Nicolas Frenkel y Tomas Vinicio Lopez",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
