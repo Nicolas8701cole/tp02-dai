@@ -1,6 +1,7 @@
 class Alumno {
-    propiedades(nombre, dni){
-        nombre = nombre
-        dni = dni
+    constructor(nombre, dni){
+        this.nombre = nombre
+        this.dni = dni
     }
 }
+export {Alumno}

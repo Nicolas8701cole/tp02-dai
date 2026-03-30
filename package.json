@@ -16,9 +16,20 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js",
-    "ej01" : "node ej01.js",
-    "ej02" : "node ej02.js",
-    "matematica": "node src/modules/matematica.js"
+    "start": "node index.js",
+    "ej01": "node ej01.js",
+    "ej02": "node ej02.js",
+    "ej03": "node ej03.js",
+    "ej04": "node ej04.js",
+    "ej05" : "node ej05.js",
+    "ej06" : "node ej06.js",
+    "ej07" : "node ej07.js",
+    "kj": "node src/modules/kj.js",
+    "matematica": "node src/modules/matematica.js",
+    "alumno": "node src/models/alumno.js"
+    
+  },
+  "dependencies": {
+    "country-currency-map": "^2.1.7"
   }
 }
